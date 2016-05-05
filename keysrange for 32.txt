@@ -1,0 +1,40 @@
+
+machine 1: ubuntu4
+Starting Range : 0			pow(2,51)	pow(2,52)	pow(2,51)*3 pow(2,53)	
+
+Ending Range   : pow(2,51)	pow(2,52)	pow(2,51)*3	pow(2,53)	pow(2,51)*5	
+
+
+
+machine 2: ubuntu 5
+Starting Range : pow(2,51)*5	pow(2,52)*3	pow(2,51)*7  pow(2,54)	pow(2,51)*9 	
+                                     	                    
+Ending Range   : pow(2,52)*3	pow(2,51)*7	pow(2,54)    pow(2,51)*9	pow(2,52)*5 	
+
+machine 3: ubuntu 6
+Starting Range : pow(2,52)*5		pow(2,51)*11	pow(2,53)*3		pow(2,51)*13	pow(2,52)*7		
+
+Ending Range   : pow(2,51)*11	pow(2,53)*3		pow(2,51)*13	pow(2,52)*7		pow(2,51)*15	
+				
+machine 4: ubuntu 7				
+Starting Range : pow(2,51)*15	pow(2,55)		pow(2,51)*17	pow(2,52)*9		pow(2,51)*19	
+	                                                                            
+Ending Range   : pow(2,55)		pow(2,51)*17	pow(2,52)*9		pow(2,51)*19	pow(2,53)*5     
+				
+				
+machine 5: ubuntu 8
+Starting Range : pow(2,53)*5			pow(2,51)*21	pow(2,52)*11	pow(2,51)*23	pow(2,54)*3			
+																					
+Ending Range   : pow(2,51)*21		pow(2,52)*11	pow(2,51)*23	pow(2,54)*3     pow(2,51)*25		
+				
+				
+machine 6: ubuntu 9				
+Starting Range : pow(2,51)*25	pow(2,52)*13	pow(2,51)*27    pow(2,53)*7		pow(2,51)*29	
+		                                        
+Ending Range   : pow(2,52)*13	pow(2,51)*27	pow(2,53)*7	    pow(2,51)*29	pow(2,52)*15
+				
+
+machine 7: ubuntu 9
+Starting Range : pow(2,52)*15	pow(2,51)*31
+
+Ending Range   : pow(2,51)*31	pow(2,56)
